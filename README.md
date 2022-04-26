@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @UzairHussainSh4 on twitter.
+- 📫 How to reach me https://www.linkedin.com/in/uzair-hussain-aa594722a on linked in.
 
 <!---
 UzairHussain193/UzairHussain193 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
