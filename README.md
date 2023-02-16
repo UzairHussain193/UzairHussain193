@@ -1,72 +1,37 @@
-<!-- Animated Name and Tagline -->
-<h1 align="center">
-  <img src="https://github.com/yourusername/yourusername/raw/main/assets/name.gif" alt="UZAIR HUSSAIN" width="350" height="100">
-  <br>
-  <br>
-  <img src="https://github.com/yourusername/yourusername/raw/main/assets/tagline.gif" alt="SOFTWARE ENGINEER & DIGITAL MARKETER" width="350" height="50">
-</h1>
+<h1 align="center">Hi 👋, I'm Uzair Hussain</h1>
+<h3 align="center">Software Engineer & a Digital Marketer</h3>
 
-<!-- Tech Stack -->
-<h3 align="center">Tech Stack:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uzairhussain193&label=Profile%20views&color=0e75b6&style=flat" alt="uzairhussain193" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzairhussain193" alt="uzairhussain193" /></a> </p>
+
+- 🌱 I’m currently learning **Java, Python**
+
+- 👯 I’m looking to collaborate on **Data Science**
+
+- 👨‍💻 All of my projects are available at [github.com/uzairhussain193](github.com/uzairhussain193)
+
+- 📝 I regularly write articles on [medium.com](medium.com)
+
+- 💬 Ask me about **Digital Marketing, SEO**
+
+- 📫 How to reach me **uzairhussain193@gmail.com**
+
+- ⚡ Fun fact **I love to teach and play**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/uzairhussain193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uzairhussain193" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/uzairhussain19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uzairhussain19" height="30" width="40" /></a>
+<a href="https://fb.com/uzairhussain19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uzairhussain19" height="30" width="40" /></a>
+<a href="https://instagram.com/uzair.hussain1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uzair.hussain1" height="30" width="40" /></a>
 </p>
 
-<!-- GitHub Analytics -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" alt="GitHub Stats">
-  <br>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dracula" alt="GitHub Streak">
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!-- My Projects -->
-<h3 align="center">My Projects:</h3>
-<p align="center">
-  <a href="https://github.com/yourusername/project1"><img src="https://img.shields.io/badge/Project%201-123456?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://github.com/yourusername/project2"><img src="https://img.shields.io/badge/Project%202-123456?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://github.com/yourusername/project3"><img src="https://img.shields.io/badge/Project%203-123456?style=flat-square&logo=github&logoColor=white"></a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzairhussain193&show_icons=true&locale=en&layout=compact" alt="uzairhussain193" /></p>
 
-<!-- Contributions to Open Source Projects -->
-<h3 align="center">Contributions to Open Source Projects:</h3>
-<p align="center">
-  <a href="https://github.com/projectname"><img src="https://img.shields.io/badge/Project%201-123456?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://github.com/projectname"><img src="https://img.shields.io/badge/Project%202-123456?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://github.com/projectname"><img src="https://img.shields.io/badge/
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uzairhussain193&show_icons=true&locale=en" alt="uzairhussain193" /></p>
 
-
-
-uzairhussain193@gmail.com
-continue..
-
-Project%203-123456?style=flat-square&logo=github&logoColor=white"></a>
-
-</p>
-<!-- My Commit Streaks -->
-<h3 align="center">My Commit Streaks:</h3>
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" alt="yourusername" />
-  </a>
-</p>
-<!-- About Me -->
-<h3 align="center">About Me:</h3>
-<p align="center">
-  Hi there, I'm yourname! I'm a passionate developer who loves to write clean, elegant, and efficient code. I have experience in working with various technologies, including Python, JavaScript, React, Node.js, HTML, and CSS. I'm always looking for exciting projects to work on and love to contribute to open-source projects.
-In my free time, you can find me working on my side projects or learning new things. I also enjoy reading books and spending time with my family.
-
-</p>
-<!-- Social Links -->
-<h3 align="center">Connect with Me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white"></a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzairhussain193&" alt="uzairhussain193" /></p>
