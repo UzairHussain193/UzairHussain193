@@ -1,9 +1,9 @@
 <!-- Animated Name and Tagline -->
 <h1 align="center">
-  <img src="https://github.com/yourusername/yourusername/raw/main/assets/name.gif" alt="Your Name" width="350" height="100">
+  <img src="https://github.com/yourusername/yourusername/raw/main/assets/name.gif" alt="UZAIR HUSSAIN" width="350" height="100">
   <br>
   <br>
-  <img src="https://github.com/yourusername/yourusername/raw/main/assets/tagline.gif" alt="Your Tagline" width="350" height="50">
+  <img src="https://github.com/yourusername/yourusername/raw/main/assets/tagline.gif" alt="SOFTWARE ENGINEER & DIGITAL MARKETER" width="350" height="50">
 </h1>
 
 <!-- Tech Stack -->
