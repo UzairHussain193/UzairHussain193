@@ -6,8 +6,6 @@
 <br />
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzairhussain193" alt="uzairhussain193" /></a> </p>
-
 - 🌱 I’m currently learning **Java, Python**
 
 - 👯 I’m looking to collaborate on **Data Science**
@@ -32,6 +30,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzairhussain193" alt="uzairhussain193" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzairhussain193&show_icons=true&locale=en&layout=compact" alt="uzairhussain193" /></p>
 
