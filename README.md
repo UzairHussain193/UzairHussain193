@@ -37,7 +37,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzairhussain193&" alt="uzairhussain193" /></p>
 
-<p><img align="center" src="https://github.com/UzairHussain193/UzairHussain193/blob/main/github-wrapped.png&" alt="uzairhussain193" /></p>
+<p><img align="center" src="/github-wrapped.png&" alt="uzairhussain193" /></p>
 
 
 <!--- [![An image of @uzairhussain193's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/uzairhussain193)](https://holopin.io/@uzairhussain193) --->
