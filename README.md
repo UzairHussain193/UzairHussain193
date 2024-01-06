@@ -1,45 +1,121 @@
-### Hi there, I'm [Uzair Hussain!](https://www.instagram.com/uzair.hussain1) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Software+Engineer;Digital+Marketer;Self-taught+Programmer;Always+Learning+new+techonologies)](https://git.io/typing-svg)
-
-![](https://komarev.com/ghpvc/?username=uzairhussain193&color=blueviolet&label=Profile+Views)
-<br />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Uzair+Hussain.....)](https://git.io/typing-svg)
 
 
-- 🌱 I’m currently learning **Java, Python**
+<!--profile visit count-->
+<div align="left">
+  
+[![](https://visitcount.itsvg.in/api?id=uzairhussain193&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
-- 👯 I’m looking to collaborate on **Data Science**
+<div align="center" style="border: px solid #000000;>
 
-- 👨‍💻 All of my projects are available at [github.com/uzairhussain193](github.com/uzairhussain193)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=40&color=&center=true&vCenter=true&width=900&height=110&lines=Software+Engineering+Student;Ecommerce+Store+Developer;Passionate+Programmer;Data+Science+Enthusiast;Digital+MarketerAnd+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+</div>
+<p align="center" >
+ <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+ </p>
 
-- 💬 Ask me about **Digital Marketing, SEO**
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 📫 How to reach me **uzairhussain193@gmail.com**
+I am Uzair Hussain, a dedicated individual and technology enthusiast deeply passionate about software development. My journey in the ever-evolving realm of technology is a testament to my continuous exploration of new innovations and my eagerness to tackle challenges head-on. In the dynamic world of technology, I find my stride, thriving on the excitement and possibilities it presents.
 
-- ⚡ Fun fact **I love to teach and play**
+With a strong commitment to collaboration and community support, I aim to inspire others to venture beyond their comfort zones and strive for greatness. Together, let's embark on the journey of creating innovative solutions that make a lasting impact.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🔭 Currently engaged in some Ecommerce project that's shaping up to be something truly exciting! Stay tuned for updates 😉
+- 👯 Looking forward to collaborating on Python projects that push the boundaries of what's possible.
+- 🌱 Actively learning about Data Science and delving into the fascinating world of Machine Learning.
+- 💬 Feel free to reach out to me about anything—I'm more than happy to help, as long as the ball is in my court! 😉
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/uzairhussain19) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uzair.hussain19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uzairhussain19) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@uzairhussain193) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Uzair-Hussain-139) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/uzairhussain193) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@uzair_hussain) 
+Let's connect, share ideas, and contribute to the ever-evolving landscape of technology. Together, we can make a difference! 🚀
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!--h1 without bottom border-->
+## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+ 
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gmail,html,aws,azure,bash,cpp,css,discord,wordpress,figma,github,html,java,js,linux,md,mysql,py,idea,opencv,vscode&perline=14&theme=light" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzairhussain193&show_icons=true&locale=en&layout=compact" alt="uzairhussain193" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uzairhussain193&show_icons=true&locale=en" alt="uzairhussain193" /></p>
+### 🥅 Others:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzairhussain193&" alt="uzairhussain193" /></p>
+<a href="https://opencv.org" target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white"></a>
+<a href="https://numpy.org" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white"></a>
+<a href="https://matplotlib.org" target="_blank"><img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-%23013243.svg?logo=matplotlib&logoColor=white"></a>
+<a href="https://pandas.pydata.org" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white"></a>
+<a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
+<a href="https://www.office.com" target="_blank"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
 
-![](https://github.com/UzairHussain193/UzairHussain193/blob/main/github-wrapped.png)
+<br> 
 
-<!--- [![An image of @uzairhussain193's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/uzairhussain193)](https://holopin.io/@uzairhussain193) --->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=uzairhussain193&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://uzairhussain.tech/" target="blank"><img align="center" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png" alt="Uzair's Portfolio" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/uzairhussain193/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/uzairhussain193" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://medium.com/@uzairhussain193" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="mailto:uzairhussain193@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/doodle/38/000000/gmail-new.png" alt="Gmail" height="50" width="50" /></a>
+  
+</p>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>GitHub Stats</b>
+<br>
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=uzairhussain193&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=uzairhussain193&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=uzairhussain193&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+</p>        
+<!--- stats (end) -->
+
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <b>💪Quote || Fact</b>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
+
+<br>
+
+#### <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
+
+
+-----
+Credits: [Uzair Hussain](https://github.com/uzairhussain193)
+
+Last Edited on: 06/01/2024
