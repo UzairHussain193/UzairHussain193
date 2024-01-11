@@ -69,7 +69,7 @@ Let's connect, share ideas, and contribute to the ever-evolving landscape of tec
 <a href="https://uzairhussain.tech/" target="blank"><img align="center" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png" alt="Uzair's Portfolio" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/uzairhussain193/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://twitter.com/uzairhussain193" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.instagram.com/uzair.hussain1/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://medium.com/@uzairhussain193" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
 <a href="mailto:uzairhussain193@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/doodle/38/000000/gmail-new.png" alt="Gmail" height="50" width="50" /></a>
   
