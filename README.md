@@ -10,7 +10,7 @@
 
 <div align="center" style="border: px solid #000000;>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=40&color=&center=true&vCenter=true&width=900&height=110&lines=Software+Engineer;Data+Scientist;Machine+Learning+Enthusiast;Research+Analyst+And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=40&color=&center=true&vCenter=true&width=900&height=110&lines=Software+Engineer;Data+Scientist;Machine+Learning+Enthusiast;Research+Analyst;and+A+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
 </div>
 <p align="center" >
  <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
